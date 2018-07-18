@@ -1,0 +1,1 @@
+cucumber features/metype_feature1.feature --format html --out reports
